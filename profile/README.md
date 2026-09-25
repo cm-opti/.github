@@ -13,9 +13,13 @@ We guide companies from diagnosis, through design and development, to implementa
 
 ### Tech stack
 **AI & ML:** Python · PyTorch · scikit-learn · Hugging Face · LLM APIs · open-source LLMs · LangChain · RAG · vector databases
+
 **NLP & Computer Vision:** OCR · NLP · OpenCV · YOLO
+
 **Data & BI:** SQL · PostgreSQL · R · pandas · Power BI · forecasting
+
 **MLOps & DevOps:** Docker · CI/CD (GitHub Actions) · MLflow · FastAPI · AWS
+
 **Automation & Integration:** n8n · REST API · ERP/CRM integrations
 
 🌍 Poland · DACH · Scandinavia · remote worldwide
