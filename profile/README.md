@@ -11,16 +11,18 @@ We guide companies from diagnosis, through design and development, to implementa
 - Data analytics & BI – dashboards, KPIs, forecasting
 - Systems integration – API, CRM, ERP, cloud
 
-### Tech stack
-**AI & ML:** Python · PyTorch · scikit-learn · Hugging Face · LLM APIs · open-source LLMs · LangChain · RAG · vector databases
-
-**NLP & Computer Vision:** OCR · NLP · OpenCV · YOLO
-
-**Data & BI:** SQL · PostgreSQL · R · pandas · Power BI · forecasting
-
-**MLOps & DevOps:** Docker · CI/CD (GitHub Actions) · MLflow · FastAPI · AWS
-
-**Automation & Integration:** n8n · REST API · ERP/CRM integrations
-
 🌍 Poland · DACH · Scandinavia · remote worldwide
 🔗 [cm-opti.com](https://cm-opti.com) · [LinkedIn](https://www.linkedin.com/company/cm-opti/)
+
+<details>
+<summary><b>Tech stack</b></summary>
+
+| Area | Technologies |
+|---|---|
+| AI & ML | Python, PyTorch, scikit-learn, Hugging Face, LLM APIs, open-source LLMs, LangChain, RAG, vector databases |
+| NLP & Computer Vision | OCR, NLP, OpenCV, YOLO |
+| Data & BI | SQL, PostgreSQL, R, pandas, Power BI, forecasting |
+| MLOps & DevOps | Docker, CI/CD (GitHub Actions), MLflow, FastAPI, AWS |
+| Automation & Integration | n8n, REST API, ERP/CRM integrations |
+
+</details>
